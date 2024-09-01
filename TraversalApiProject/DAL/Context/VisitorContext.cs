@@ -1,4 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿    using Microsoft.EntityFrameworkCore;
 using TraversalApiProject.DAL.Entities;
 
 namespace TraversalApiProject.DAL.Context
